@@ -1,4 +1,4 @@
-<header>
+THE BNWO SECRET COMMUNITY
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,26 +7,25 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# BlackNewWorldOrderGitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+The idea of this Club is a safe place where all Blacks, whitebois, Sluts and freaks can freely express themselves and live out their wildest fantasies and desires. As you know not everyone in the world has accepted the BNWO and Black Supremacy so therefore there are haters which is why we keep the Club’s location secret.
+![IMG_5802](https://github.com/user-attachments/assets/a747b23c-a838-4783-8fda-ce0da921f77f)
+
+There are so many whitebois out there who cannot be the true sluts and slaves they’re meant to be because of the public community. So join the Club, is like joining a Secret Community with others like you, were you can freely live your life as you wish and slut yourself out as much as you want, here you can serve your Masters to the fullest.
+
+As a whiteboi member of the club you’re allowed to come in anytime you want as there’s always something fun and nasty happening here, we usually host gang bangs, sex parties, events, orgys, we got 3 gloryholes here as well!
+
+Anytime you enter the Club there’s always a white whore being gang banged & passed around or something else.There are some privileges that comes with being a member such as not having to buy tickets for any of our event, plus so many blacks for you to serve at the Club!.The Clubs are large soundproof underground buildings with different rooms for different activities and like I said they’re opened 24/7 but it’s location is anonymous for it’s members safe!!!.I’m sure you must understand the importance of keeping things discreet? as not everyone has accepted the BNWO and there are even some haters and racists that will try to stop it!
+
 
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-## Step 1: Enable GitHub Pages
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
+  
 ### :keyboard: Activity: Enable GitHub Pages
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
